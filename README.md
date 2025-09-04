@@ -1,6 +1,7 @@
 # Portfolio de Laboratorios y Trabajos Prácticos
 
-Soy Sebastián Ocampo Galvis. Estudiante de la Universidad Nacional de Colombia. Acá encontrarás los principales proyectos en los que he participado, trabajos y laboratorios realizados para algunos cursos de mi carrera.
+Soy Sebastián Ocampo Galvis. Ingeniero de sistemas e informática en formación de la Universidad Nacional de Colombia Sede Medellín. Poseo conocimientos en ciencias de datos, manejo de python, herramientas de ofimática. Nivel de inglés B1
+Acá encontrarás los principales proyectos en los que he participado, trabajos y laboratorios realizados para algunos cursos de mi carrera.
 Algunos de estos han sido realizados desde esta misma cuenta y otros con mi cuenta secundaria creada con mi correo institucional universitario (https://github.com/sebocg10)
 
 ---
